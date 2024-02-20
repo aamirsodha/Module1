@@ -1,0 +1,31 @@
+.nav-item>.btn{
+  border-radius: 50px!important;
+  padding:5px 26px 5px 26px;
+}
+.nav-link{
+    color: black;
+    font-weight: 400;
+}
+
+.body,.navbar{
+  background-color: #fff!important;
+  height: 100px;
+}
+.bg-bl{
+  background-color: #D6E4FE!important;
+  border-radius: 30px;
+}
+.rds-50
+{border-radius: 50px;
+padding: 5px 26px 5px 26px;}
+.pos{
+  position: absolute;
+}
+
+
+
+
+
+
+
+
